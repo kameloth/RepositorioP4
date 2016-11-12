@@ -1,2 +1,6 @@
-# RepositorioP4
-demo de repositorio
+public class ClaseA
+  private int x;
+  public ClaseA()
+  {
+    int x=0;
+  }
