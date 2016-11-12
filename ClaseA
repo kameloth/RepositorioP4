@@ -1,6 +1,7 @@
 public class ClaseA{
-private int x;
-public ClaseA()
-{int x=0;
-}
+  private int x;
+  
+  public ClaseA()
+    {int x=0;
+    }
 }
